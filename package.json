@@ -1,0 +1,22 @@
+{
+  "name": "lottery_machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowripreetham/lottery_machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowripreetham/lottery_machine/issues"
+  },
+  "homepage": "https://github.com/gowripreetham/lottery_machine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
